@@ -1,0 +1,4 @@
+D:\05-OpenSource\OrleansTest\OrleansTest\ITest\obj\Debug\ITest.csprojAssemblyReference.cache
+D:\05-OpenSource\OrleansTest\OrleansTest\ITest\obj\Debug\ITest.csproj.OrleansCodeGenInputs.cache
+D:\05-OpenSource\OrleansTest\OrleansTest\ITest\obj\Debug\ITest.orleans.g.cs
+D:\05-OpenSource\OrleansTest\OrleansTest\ITest\obj\Debug\ITest.csproj.CoreCompileInputs.cache
